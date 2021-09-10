@@ -18,5 +18,5 @@ We will be using two datasets here i.e. Sample - Superstore and Sales_Target.
 
 ## Tools Used
 
-Tableau 2021.3 Desktop.
+Tableau 10.
 Please find the dashboard on [Tableau Public Server](https://public.tableau.com/app/profile/anjali.menon3361/viz/SuperStore-SalesTargetAnalysis/SalesAnalysis?publish=yes)
